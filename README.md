@@ -4,7 +4,7 @@ The perfume product launch page is created to promote the new perfume, Warmth. W
 
 ## Link
 
-include once deployed
+https://layanb4.github.io/Perfume-Product-Launch-Page/
 
 ## License
 
